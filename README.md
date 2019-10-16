@@ -1,5 +1,5 @@
 # Grapher
-
+Simple mathamtical function grapher
 
 The main functon is located in Window.java and only that needs to be ran.
 
